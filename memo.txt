@@ -1,0 +1,4 @@
+git add  : staging area
+ 
+git commit  : repository
+
