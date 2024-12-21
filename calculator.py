@@ -8,3 +8,6 @@ def multiply(a,b){
   return a*b
 }
   
+def divided(a, b){
+  return a/b
+}
