@@ -8,6 +8,6 @@ def multiply(a,b){
   return a*b
 }
   
-def divided(a, b){
+def divided_premium(a, b){
   return a/b
 }
