@@ -8,7 +8,7 @@ def multiply(a,b){
   return a*b
 }
   
-def divided_free(a, b){
+def divided_new(a,b){
   return a/b
 }
 
